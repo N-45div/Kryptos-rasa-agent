@@ -51,6 +51,7 @@ Get exact slippage based on real-time market data:
 The Crypto Investment Analyst integrates with:
 - CoinGecko API
 - RapidAPI
+- Santiment API
 
 
 ## 📜 License

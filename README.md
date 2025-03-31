@@ -1,50 +1,57 @@
-# codespaces-quickstart
-Get started with Rasa Pro in the browser using GitHub Codespaces.
+# 🚀 Crypto Investment Analyst
 
-### Steps
+## Your AI-Powered Crypto Intelligence Assistant
 
-1. **Create a Codespace:**
-   - Click on the green "Code" button on this page, then scroll down to "Codespaces".
-   - Click on "Create codespace on main".
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
+[![RASA](https://img.shields.io/badge/rasa-3.5.0-green.svg)](https://rasa.com/)
 
-2. **Set Up Environment:**
-   - In the codespace, open the `.env` file from this repo and add your license key to that file.
-     ```
-     RASA_PRO_LICENSE='your_rasa_pro_license_key_here'
-     ```
-   - Set this environment variables by running 
-     ```
-     source .env
-     ```
-   - Activate your python environment by running
-     ```
-     source .venv/bin/activate
-     ```
+## 📊 Overview
 
-3. **Initialize a New Project:**
-   - In the terminal, run:
-     ```
-     rasa init --template tutorial
-     ```
-     and follow the instructions.
+Crypto Investment Analyst is a powerful RASA-based conversational AI agent designed to provide comprehensive cryptocurrency market insights and investment analytics. It offers real-time data analysis, market trends, and actionable intelligence to help you make informed investment decisions in the volatile crypto market.
 
-4. **Train the Model:**
-   - In the terminal, run:
-     ```
-     rasa train
-     ```
+## ✨ Key Features
 
-5. **Talk to your Bot:**
-   - In the terminal, run
-     ```
-     rasa inspect
-     ```
-     GitHub will show a notification, click on the green button to view the inspector where you can chat with your assistant.
+### 📈 Market Overview
+Get instant access to comprehensive market data including:
+- Top 10 cryptocurrencies 
+- 24-hour volume
+- 7 day volume
+- Total Market cap
 
-6. **Run Custom Actions:**
-  In Rasa 3.10 and later, custom actions are automatically run as part of your running assistant. To double-check that this is set up correctly, ensure that your `endpoints.yml` file contains the following configuration:
-   ```
-   action_endpoint:
-      actions_module: "actions" # path to your actions package
-    ```
-   Then re-run your assistant via `rasa inspect` every time you make changes to your custom actions.
+### 📰 Latest Crypto News
+Stay informed with the most recent crypto news from cointelegraph :
+- Breaking industry developments
+- Regulatory updates
+- Project announcements
+- Expert opinions and analyses
+
+### 📊 MVRV Ratio Analysis
+Access sophisticated Market Value to Realized Value (MVRV) analytics:
+- Historical MVRV comparisons
+- Market cycle indicators
+- Overbought/oversold signals
+- Profit-taking opportunities
+
+### 💹 Arbitrage Analysis
+Identify profit opportunities across exchanges:
+- Real-time price discrepancies
+- Exchange-specific opportunities
+- Fee-adjusted potential returns
+- Risk assessment on arbitrage trades
+
+## 🔄 Integrations
+
+The Crypto Investment Analyst integrates with:
+- CoinGecko API
+- RapidAPI
+- Glassnode Analytics
+
+## 📜 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🙏 Acknowledgments
+
+- [RASA](https://rasa.com/) for their incredible conversational AI framework
+

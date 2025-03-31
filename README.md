@@ -40,12 +40,18 @@ Identify profit opportunities across exchanges:
 - Fee-adjusted potential returns
 - Risk assessment on arbitrage trades
 
+### 💹 Slippage Analysis
+Get exact slippage based on real-time market data:
+- Real-time price data
+- Negative and Positive slippage calculation
+- Trading suggestions based on slippage
+
 ## 🔄 Integrations
 
 The Crypto Investment Analyst integrates with:
 - CoinGecko API
 - RapidAPI
-- Glassnode Analytics
+
 
 ## 📜 License
 

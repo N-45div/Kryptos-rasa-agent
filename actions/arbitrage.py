@@ -15,7 +15,7 @@ class ActionArbitrageData(Action):
         querystring = {"keyword":"binance"}
         
         headers = {
-            "X-RapidAPI-Key": "d3cb71c8c3msha09839cedf7ff57p17c886jsnfdbe7e23ec87",
+            "X-RapidAPI-Key": "API-KEY",
             "X-RapidAPI-Host": "crypto-arbitrage3.p.rapidapi.com"
         }
         

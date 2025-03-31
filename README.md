@@ -1,4 +1,4 @@
-# 🚀 Crypto Investment Analyst
+# 🚀 Kryptos : AI x Crypto Investment Analyst Rasa Agent
 
 ## Your AI-Powered Crypto Intelligence Assistant
 

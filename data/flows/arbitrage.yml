@@ -1,0 +1,6 @@
+flows:
+  crypto_arbitrage:
+     description: Monitor price differences for the same cryptocurrency on different exchanges, enabling them to execute profitable trades
+     name: Arbitrage Coin data
+     steps:
+      - action: action_crypto_arbitrage

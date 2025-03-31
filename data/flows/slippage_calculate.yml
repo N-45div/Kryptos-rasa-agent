@@ -1,0 +1,6 @@
+flows:
+  calculate_dynamic_slippage:
+    description: Crypto based slippage calculation 
+    name: crypto slippage calculation
+    steps:
+      - action: action_calculate_slippage

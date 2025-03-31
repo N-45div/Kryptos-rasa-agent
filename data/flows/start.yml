@@ -1,0 +1,7 @@
+flows:
+  telegram_start:
+    description: Telegram handle start command
+    nlu_trigger:
+      - intent: start
+    steps:
+      - action: action_handle_start

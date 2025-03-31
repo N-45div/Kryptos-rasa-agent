@@ -1,0 +1,16 @@
+{
+  "priority": 6,
+  "vector_store": {
+    "type": "faiss",
+    "source": "./docs",
+    "threshold": 0.0
+  },
+  "llm": {
+    "provider": "mistral",
+    "model": "mistral/codestral-2405"
+  },
+  "embeddings": {
+    "provider": "mistral",
+    "model": "mistral/mistral-embed"
+  }
+}

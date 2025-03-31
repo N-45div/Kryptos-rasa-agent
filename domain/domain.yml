@@ -1,0 +1,8 @@
+actions:
+  - action_mvrv_data
+  - action_live_market_data
+  - action_calculate_slippage
+  - action_handle_start
+  - action_crypto_news
+  - action_crypto_arbitrage
+

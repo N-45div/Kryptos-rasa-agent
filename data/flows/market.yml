@@ -1,0 +1,6 @@
+flows:
+  coin_market:
+    description: Show the coin market data of popular cryptocurrencies
+    name: Market Data
+    steps:
+     - action: action_live_market_data

@@ -1,0 +1,25 @@
+{
+  "prompt": null,
+  "prompt_template": null,
+  "user_input": null,
+  "llm": {
+    "id": "mistral",
+    "models": [
+      {
+        "provider": "mistral",
+        "model": "mistral/codestral-2405",
+        "api_key": "${MISTRAL_API_KEY}"
+      }
+    ]
+  },
+  "flow_retrieval": {
+    "embeddings": {
+      "provider": "openai",
+      "model": "text-embedding-ada-002"
+    },
+    "num_flows": 20,
+    "turns_to_embed": 1,
+    "should_embed_slots": true,
+    "active": false
+  }
+}

@@ -1,0 +1,6 @@
+flows:
+   crypto_news:
+     description: Get the latest crypto news data 
+     name: Crypto news 
+     steps:
+      - action: action_crypto_news

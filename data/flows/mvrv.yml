@@ -1,0 +1,6 @@
+flows:
+  mvrv_market:
+    description: Show the mvrv data of popular cryptocurrencies
+    name: MVRV Data
+    steps:
+     - action: action_mvrv_data

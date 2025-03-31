@@ -12,7 +12,7 @@ class ActionCryptoNews(Action):
             domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
         url = "https://cryptocurrency-news2.p.rapidapi.com/v1/cointelegraph"
         headers = {
-            "X-RapidAPI-Key": "ab8f7b4349msh50141c095d909bfp1704d5jsn0d63b8bfe685",
+            "X-RapidAPI-Key": "API-KEY",
             "X-RapidAPI-Host": "cryptocurrency-news2.p.rapidapi.com"
         } 
         try:

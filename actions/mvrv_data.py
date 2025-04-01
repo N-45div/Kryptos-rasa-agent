@@ -5,7 +5,7 @@ import san
 import pandas as pd
 from datetime import datetime, timedelta
 
-san.ApiConfig.api_key = "ogh4zj3ayia26ewh_qyw6qq5wulsj54fq"
+san.ApiConfig.api_key = "api-key"
 
 class ActionmvrvData(Action):
     def name(self) -> Text:

@@ -4,7 +4,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
-[![RASA](https://img.shields.io/badge/rasa-3.12.0-green.svg)](https://rasa.com/)
+[![RASA](https://img.shields.io/badge/rasa-3.11+-green.svg)](https://rasa.com/)
 
 ## 📊 Overview
 

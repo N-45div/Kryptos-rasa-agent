@@ -1,4 +1,5 @@
 # 🚀 Kryptos : AI x Crypto Investment Analyst Rasa Agent
+# 🚀 Was part of top 10 notable projects in rasa agent building challenge 2025
 
 ## Your AI-Powered Crypto Intelligence Assistant
 
